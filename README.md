@@ -1,5 +1,3 @@
-# Fake-review-detection-algorithm
-An NLP and Machine Learning-based Fake Review Detection System that analyzes customer reviews and identifies potentially fraudulent or misleading reviews using text preprocessing, feature extraction, and classification techniques.
 # Fake Review Detection System
 
 An NLP and Machine Learning-based project designed to identify fake, misleading, and potentially fraudulent customer reviews. The system analyzes textual review patterns, extracts meaningful features, and uses a classification model to distinguish between genuine and fake reviews.
